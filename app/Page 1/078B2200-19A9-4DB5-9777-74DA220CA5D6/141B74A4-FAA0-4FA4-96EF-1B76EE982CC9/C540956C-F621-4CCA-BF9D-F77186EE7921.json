@@ -1,0 +1,145 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C540956C-F621-4CCA-BF9D-F77186EE7921",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 3.80850065851989,
+    "width": 9.137565057162078,
+    "x": 14.95374670421041,
+    "y": 27.84968855816373
+  },
+  "hasClippingMask": false,
+  "isClosed": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Path",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.15943340969447414, 0.36363376613024101}",
+      "curveMode": 3,
+      "curveTo": "{0.021828654664714956, 0.1798755314756609}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.028998043099509228, 0.18937027932003742}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.97476031801143748, -0.002259888648841414}",
+      "curveMode": 4,
+      "curveTo": "{0.55688497912433432, 0.77562641183235514}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.96823065383846552, 0.010405631614892143}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.99808008379575219, 0.018241158704904992}",
+      "curveMode": 2,
+      "curveTo": "{0.98393557022165234, -0.0034780719654422432}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.99100782700870205, 0.0073815433697313748}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.97157058299333832, 0.34130325187927152}",
+      "curveMode": 3,
+      "curveTo": "{1.0014620144526818, 0.038741189349264959}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.99940332595061143, 0.058271997090657779}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.24444573978316911, 1}",
+      "curveMode": 3,
+      "curveTo": "{0.86723119619511302, 1}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.49658812478169795, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{-0.0016307132635591361, 0.22857155204360236}",
+      "curveMode": 3,
+      "curveTo": "{0.07027956745373666, 0.67027766995935611}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.0012543649196992837, 0.24695950028306612}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.012952563105415418, 0.18210771143143942}",
+      "curveMode": 2,
+      "curveTo": "{0.00056659642974297476, 0.20781800720055263}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{0.0067595797675790697, 0.19496285931599602}"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 1.953125,
+      "saturation": 1,
+      "type": 0
+    },
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7607843137254902,
+          "green": 0.8901960784313725,
+          "red": 0.3137254901960784
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

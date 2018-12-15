@@ -1,0 +1,119 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 0.9764705882352941,
+    "red": 0.9647058823529412
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4F1AEF00-49CA-4B84-8E9C-692A64C1BE7B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "pdf",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 812,
+    "width": 375,
+    "x": 1950,
+    "y": -156
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "00A283FE-94CE-4D55-9B03-B644CDFFF5AD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F8339491-38D1-40DD-AD69-4C4A2ECF720B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0C5B323B-20E8-42C3-B085-AD9C1CA4CA7D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9FCA7052-6756-4600-B2D1-5E645065B28E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C7C65D75-B283-43A7-B53A-08A8A06FE5AA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "778C96B5-2ECC-45E3-A38B-7AB915F34323"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "52196895-9D97-4135-B2A1-352A56EE9A5B"
+    }
+  ],
+  "name": "公示活动",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 812,
+    "name": "iPhone XS",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

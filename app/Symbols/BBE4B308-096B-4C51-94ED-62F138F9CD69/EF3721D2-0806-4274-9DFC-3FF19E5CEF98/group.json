@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EF3721D2-0806-4274-9DFC-3FF19E5CEF98",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0B12413A-00B5-406D-BAFC-AE238A8D0D0F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "67CDC577-9EBE-4600-9198-8C5A2116B6CD",
+    "height": 130,
+    "width": 356,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "705DCDC9-9B4B-4C1A-84B8-6A023A77B847"
+    },
+    {
+      "class": "group",
+      "id": "C848D090-CBC8-44AF-8024-21A3A3F301F8"
+    },
+    {
+      "class": "text",
+      "id": "021D874C-B408-4079-9EC7-7FC16C922155"
+    },
+    {
+      "class": "rectangle",
+      "id": "9514189A-2C27-41E3-B26B-08C20A202300"
+    },
+    {
+      "class": "group",
+      "id": "0E28E723-17D0-480C-B90B-2A918B617684"
+    }
+  ],
+  "name": "Card",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DC344F39-6B85-4314-A602-480B1ED15C25",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

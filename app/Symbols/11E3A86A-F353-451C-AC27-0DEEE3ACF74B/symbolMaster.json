@@ -1,0 +1,106 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 7,
+  "clippingMaskMode": 0,
+  "do_objectID": "11E3A86A-F353-451C-AC27-0DEEE3ACF74B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 512,
+    "width": 512,
+    "x": 695,
+    "y": 612
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B1C674F2-EC83-47AF-8AE5-9E1E86306E3E"
+    },
+    {
+      "class": "shapePath",
+      "id": "50035F5D-CA7E-4FC4-8ABD-4D638E6CEB8B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EE438E00-0DBC-46D8-94DA-6227B5C4217D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3A93EE53-C754-4B0B-8047-8D8079E7700F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0BE14634-78F6-433C-8A11-0EA2343B3042"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BCA71CA8-10CC-4DB5-9C77-228563445D3D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B1E2F005-6286-4818-82EE-15500AC7581B"
+    }
+  ],
+  "name": "pic/Grid",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9F105B8B-1BCF-4B83-BF62-1255EB2942B1",
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 0.9764705882352941,
+    "red": 0.9647058823529412
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "078B2200-19A9-4DB5-9777-74DA220CA5D6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "pdf",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 812,
+    "width": 375,
+    "x": 2900,
+    "y": -156
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "CC98897E-6C79-4861-981E-DBDBBA58BEB8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B2183467-D19F-4A03-814E-2DDC1B27334B"
+    },
+    {
+      "class": "rectangle",
+      "id": "40FDDF9F-76C4-440A-8825-1A0491DCEE03"
+    },
+    {
+      "class": "shapePath",
+      "id": "2AE3A36A-9F14-4514-9F8D-8E60C2C52EDA"
+    },
+    {
+      "class": "group",
+      "id": "15DC8B1B-73B8-4FF3-861B-A596060BD9E7"
+    },
+    {
+      "class": "text",
+      "id": "EB8BEBE9-1355-433D-BFDC-55227DF217F1"
+    },
+    {
+      "class": "text",
+      "id": "04345865-C709-4D85-914F-FAFEB5BB5933"
+    },
+    {
+      "class": "oval",
+      "id": "870CE0EA-6DFA-4490-ABDD-5233282F1C52"
+    },
+    {
+      "class": "rectangle",
+      "id": "27047223-C75F-4BD0-92A1-7C0931AC0CF8"
+    },
+    {
+      "class": "shapePath",
+      "id": "9AC0BE73-8BF1-4543-9D0E-690CA54E7AE5"
+    },
+    {
+      "class": "shapePath",
+      "id": "28A295F9-C046-49FC-8309-1D6BAB0BB030"
+    },
+    {
+      "class": "shapePath",
+      "id": "F55EFE64-B4E3-426A-BB5D-369384ABC3C0"
+    },
+    {
+      "class": "text",
+      "id": "50C00AFB-E727-451A-BE16-6876F282E9FB"
+    },
+    {
+      "class": "group",
+      "id": "F2F93E7C-C7BC-44C7-AFD9-EEBA764B7C78"
+    },
+    {
+      "class": "text",
+      "id": "2806A66E-4351-4ED6-BD77-9742FAE986D1"
+    },
+    {
+      "class": "group",
+      "id": "868BBD80-78C8-47B9-9591-A9510C05C572"
+    },
+    {
+      "class": "text",
+      "id": "EEC036BE-83C8-4C52-A8B6-40F561485361"
+    },
+    {
+      "class": "group",
+      "id": "558FF029-59ED-413A-BA44-C191591DD265"
+    },
+    {
+      "class": "text",
+      "id": "173858ED-DE5D-4C88-930A-E088A3D032AD"
+    },
+    {
+      "class": "group",
+      "id": "141B74A4-FAA0-4FA4-96EF-1B76EE982CC9"
+    },
+    {
+      "class": "text",
+      "id": "4045D3EC-7277-4324-9DCD-87C197476CBE"
+    },
+    {
+      "class": "group",
+      "id": "C084665F-F931-4C80-ABCA-4940E9B40389"
+    },
+    {
+      "class": "text",
+      "id": "80CABD99-7A6A-4F1D-8CBC-2D7DA4037A81"
+    },
+    {
+      "class": "bitmap",
+      "id": "0EF272B5-380E-485A-AC95-67E6B6C6FB2B"
+    }
+  ],
+  "name": "我的",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 812,
+    "name": "iPhone XS",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

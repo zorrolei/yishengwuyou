@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "64E93537-2CA6-463C-8F56-FD9A74E66E07",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8B62F3A2-E460-469D-A4B9-A2C8D1A671B1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "53E12B48-5C94-4121-9F78-9364ED563640",
+    "height": 40,
+    "width": 330,
+    "x": 13,
+    "y": 15
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Cell/Option",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "F03818EF-F10E-423B-9328-7883AA9232E0_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "103EF958-FF6B-4F04-A318-981D891B61E9_stringValue",
+      "value": "会员细则"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EA306459-DD83-4148-BDED-7DD908216D6E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B6DCF989-BB68-4770-B66A-3B833334C8E5",
+  "verticalSpacing": 0
+}

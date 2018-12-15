@@ -1,0 +1,95 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C7C65D75-B283-43A7-B53A-08A8A06FE5AA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 130,
+    "width": 356,
+    "x": 10,
+    "y": 419
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Card/Music/Song/Normal Copy 2",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "F9F86DFF-689F-4008-B77D-3DF3DF91EE54_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/7a341b18cb22ef390ff2d3dddb87f2b61cf8addb.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "639D3B3B-2B2B-4BD8-9528-B3DF73890A78_stringValue",
+      "value": "方隽仪"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "60557EDE-096E-4674-B229-DD4509E8985F_stringValue",
+      "value": "“复发了！”当医生再次时候，他突然感觉两眼一黑，很想晕..."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F88EEFBD-4CC6-4D6F-B8B8-E822EEFEF8EA_stringValue",
+      "value": "200,000元"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "90732328-00CA-4F2A-BA05-9BDEF8EB93E2",
+      "overrideName": "635405D7-4CFD-4BAC-9FCF-092822059331_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/d96c87224665a13f296c17ef71608e219f89ed63.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3C147D9E-7E70-4A9E-8087-A410D1E4451D",
+      "overrideName": "CE2D8771-25F7-41A6-A0B2-67FBC340034D_stringValue",
+      "value": "“爱心”爸爸艰难救子路"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "50F58777-8A9E-4B7D-BA0F-2CB80F4D2E8C",
+      "overrideName": "ED3E2F71-B8A6-4227-8151-AEEA050A5AB4_stringValue",
+      "value": "霖霖"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E3B8185B-497A-4DF7-91F1-503D56FFB87A",
+  "verticalSpacing": 0
+}

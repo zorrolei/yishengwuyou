@@ -1,0 +1,114 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0C5B323B-20E8-42C3-B085-AD9C1CA4CA7D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "99C8D21D-276A-4C5F-B4C0-F84893169FA4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5B3F797E-0181-43CE-AD2A-8E74350D8723",
+    "height": 130,
+    "width": 356,
+    "x": 10,
+    "y": 119
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Card/Music/Song/Normal",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B491BBEB-43CF-4379-8362-53E48EE142D0",
+      "overrideName": "F9F86DFF-689F-4008-B77D-3DF3DF91EE54_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/3df1bd10a11094d602b021391b3254d741589a09.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AAB951FA-0578-43EB-AD75-76BBD0BBF540",
+      "overrideName": "639D3B3B-2B2B-4BD8-9528-B3DF73890A78_stringValue",
+      "value": "张三"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "73EA97E3-BC50-4EBC-AF28-62DE10F6B094",
+      "overrideName": "60557EDE-096E-4674-B229-DD4509E8985F_stringValue",
+      "value": "从2008年到现在我们一直在和医院打交道，先后在我们任丘市..."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3BD9239C-58AB-4874-AB67-9029472F4FCD",
+      "overrideName": "F88EEFBD-4CC6-4D6F-B8B8-E822EEFEF8EA_stringValue",
+      "value": "300,000元"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F681577E-AA57-45B0-9A7F-39FFCD838D49",
+      "overrideName": "F187DE85-5FE1-4E5F-B784-47DD51A76C69/F8AE0BFA-D444-4516-B535-E4BB2F1CDADF_stringValue",
+      "value": "周奕汉"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9B3E25B5-EBC2-4937-A3D0-E460EABD4732",
+      "overrideName": "F187DE85-5FE1-4E5F-B784-47DD51A76C69/6C974F61-F099-441F-96C4-A1D294EC3D0E_stringValue",
+      "value": "颐生无忧大病互助"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "331FAD48-A3A7-430A-B91D-3D4C09F2F531",
+      "overrideName": "635405D7-4CFD-4BAC-9FCF-092822059331_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/7a341b18cb22ef390ff2d3dddb87f2b61cf8addb.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "696089AF-A3DE-4751-A438-A02C4EDF3929",
+      "overrideName": "ED3E2F71-B8A6-4227-8151-AEEA050A5AB4_stringValue",
+      "value": "戚学森"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F35B5012-EECC-4055-9120-DBBE42656219",
+      "overrideName": "CE2D8771-25F7-41A6-A0B2-67FBC340034D_stringValue",
+      "value": "救救唯一的孩子"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "42369E72-F053-44FF-86CE-30EAD282C9F3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E3B8185B-497A-4DF7-91F1-503D56FFB87A",
+  "verticalSpacing": 0
+}

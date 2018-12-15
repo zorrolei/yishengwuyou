@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "52196895-9D97-4135-B2A1-352A56EE9A5B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A39B2183-B1A5-4E60-9574-49A3C5465A8C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "54A49E43-C84A-4AF1-A9D1-D218C83BB683",
+    "height": 45,
+    "width": 375,
+    "x": 0,
+    "y": 64
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Navigation/Navbar3-1",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BFD1FDF7-E204-4B49-836D-83CCCFCB987E",
+      "overrideName": "C567FFBC-82E4-48AC-BB9B-DC3C4F911966_stringValue",
+      "value": "公示活动"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4B168F70-A5FD-49D6-9BB8-DDBD31AF2C38",
+      "overrideName": "5DA2D57F-5BF7-49F9-AE4D-389AE8A1E95B_stringValue",
+      "value": "救助案例"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7483AF53-8266-4112-A9E9-97CA182ECA24",
+      "overrideName": "C0948E22-8B55-4516-9AA7-53E7851310FE_stringValue",
+      "value": "爱心企业家"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "219ABB41-679E-4C8A-91F7-82811C1DDFBB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "491A48FE-95CE-4CD2-995C-314E77DBBE24",
+  "verticalSpacing": 0
+}

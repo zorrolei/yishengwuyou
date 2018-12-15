@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CC98897E-6C79-4861-981E-DBDBBA58BEB8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 64,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "1534D938-1334-4F6F-AB28-5CADA470D739"
+    },
+    {
+      "class": "rectangle",
+      "id": "4CE631AB-6203-4C3E-AD07-0A4119DDC5C6"
+    },
+    {
+      "class": "group",
+      "id": "96828617-5863-4240-97E6-2B92DF9B3120"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3C3387C2-6D4C-4C46-BFCC-1712842475B3"
+    },
+    {
+      "class": "text",
+      "id": "BE2B9189-5DD4-45AA-A53D-142A2C3FE616"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A6634410-E7D0-42E8-BBEA-CFA8D8E16CCF"
+    }
+  ],
+  "name": "iOS White",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

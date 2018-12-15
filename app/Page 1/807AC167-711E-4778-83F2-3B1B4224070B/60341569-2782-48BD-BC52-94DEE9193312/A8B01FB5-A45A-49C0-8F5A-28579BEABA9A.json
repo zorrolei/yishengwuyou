@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A8B01FB5-A45A-49C0-8F5A-28579BEABA9A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4E0A38BB-DC88-4477-97C3-8941950B5119",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6A416198-F007-4DF7-AEB4-AB76B033DE57",
+    "height": 100,
+    "width": 343,
+    "x": 13,
+    "y": 14
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Cell/Cell 360 Explain Badge 45icon",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "083BD587-8747-4108-8AE2-B636E98B5E26",
+      "overrideName": "AF8F6552-52C8-4761-9D6E-6C0340C7B97F_stringValue",
+      "value": "加入颐生无忧大病互助愛心联盟，解决会员因病致贫、因病"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DF66D4B1-5A07-4ECE-A771-B4134A5A428A",
+      "overrideName": "BFBC5CBE-C366-490B-9475-53B18C6B3A6C_stringValue",
+      "value": "颐生无忧大病互助会员"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5C001249-4C6C-4135-88AA-725CC16C6F04",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C5108EB1-17CE-4846-BE49-3F943ACB7E11",
+  "verticalSpacing": 0
+}

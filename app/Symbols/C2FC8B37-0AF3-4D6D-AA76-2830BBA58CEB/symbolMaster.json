@@ -1,0 +1,102 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 34,
+  "clippingMaskMode": 0,
+  "do_objectID": "C2FC8B37-0AF3-4D6D-AA76-2830BBA58CEB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 360,
+    "x": 3311,
+    "y": 306
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "552D3C00-45D0-4C64-A470-7B18BE87A2D5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2BDE3677-454F-432E-A5EF-B8F409ADFF8F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "50D9A3E5-FBD9-41E8-8E14-1ECE785D6178"
+    },
+    {
+      "class": "text",
+      "id": "103EF958-FF6B-4F04-A318-981D891B61E9"
+    },
+    {
+      "class": "text",
+      "id": "F03818EF-F10E-423B-9328-7883AA9232E0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "85CE86B2-4E88-43A4-9191-9771C9E34CFB"
+    }
+  ],
+  "name": "Cell/Option",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B6DCF989-BB68-4770-B66A-3B833334C8E5",
+  "userInfo": {
+    "io.magicsketch.mirror": {
+      "highestQuality": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6E28884E-3A45-4528-AA62-DA8BB7A6A891",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "075530F1-C1B1-45E0-A700-0C8BEFE0112C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0E03642B-2BA4-46A6-B275-7DCD39E426F2",
+    "height": 244,
+    "width": 356,
+    "x": 10,
+    "y": 119
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Card/Recording/Normal",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E048CB20-210A-4BCF-BFC6-5570024FD9FC",
+      "overrideName": "5E7345CE-1F92-4B61-AFEC-C4D008F289FF_stringValue",
+      "value": "“公益盛典” 用看的方式链接爱与感动"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5103D8CB-417E-4572-8B3D-3F7CCCEE2612",
+      "overrideName": "0083C1B3-A48B-4191-A2BF-4F310B19EF97_stringValue",
+      "value": "2018-12-15"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1950C91D-CE1A-48F6-8EA5-E55ABAA3D142",
+      "overrideName": "5969AA14-B3AE-4954-A36C-CA2963A4CB95_stringValue",
+      "value": "3:05"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "02897168-D2E5-4D85-B2A4-1D1B6AF2DC90",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7CA058EB-ECC2-4620-A3A2-5E05DD8BA887",
+  "verticalSpacing": 0
+}

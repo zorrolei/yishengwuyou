@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3284DBCB-888B-4B8F-8A9C-746A927B88A9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 244,
+    "width": 356,
+    "x": 10,
+    "y": 383
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Card/Recording/Normal Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "5E7345CE-1F92-4B61-AFEC-C4D008F289FF_stringValue",
+      "value": "走在行业风口的“健康保障卫士”"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "0083C1B3-A48B-4191-A2BF-4F310B19EF97_stringValue",
+      "value": "2018-12-15"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5969AA14-B3AE-4954-A36C-CA2963A4CB95_stringValue",
+      "value": "3:05"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5BAE704B-2B4E-4259-8A2F-AA85AA315BC4",
+      "overrideName": "36EA744C-D116-4E95-96C2-02BB7811F3FE_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/08e9cc2b1fd543e1dfdfce85546bdf653d6207f5.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7CA058EB-ECC2-4620-A3A2-5E05DD8BA887",
+  "verticalSpacing": 0
+}

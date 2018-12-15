@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "35645285-E5F2-48BD-9EFE-D51E2F1ADCB7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 45,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "96316CF5-EFC2-4C15-8D66-808E42686323"
+    },
+    {
+      "class": "group",
+      "id": "E62ECF72-1B03-4F32-8D0A-71666E3D3689"
+    },
+    {
+      "class": "group",
+      "id": "D0CC6DCD-DB34-4328-8ADF-811EBF3BF0D0"
+    },
+    {
+      "class": "group",
+      "id": "1D6BC6BE-02A4-40B0-B016-5BC567A44C89"
+    },
+    {
+      "class": "group",
+      "id": "06CCD6AA-6EC9-4215-A793-2B7E06045156"
+    }
+  ],
+  "name": "Navigation/Tabbar4row",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

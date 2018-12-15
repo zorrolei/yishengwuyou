@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8F6D621E-3CFE-4F69-99F4-E0E216DA2B08",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 150,
+    "width": 356,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "CDC5A886-F25E-48A7-A34A-7F33452426B4"
+    },
+    {
+      "class": "group",
+      "id": "0C5416E9-17AE-4128-AEFE-ED41B363BAB6"
+    },
+    {
+      "class": "group",
+      "id": "DD844992-12FF-48C8-A50D-D172016E9B78"
+    },
+    {
+      "class": "group",
+      "id": "CB5F03BB-F510-4CCB-8002-072BCDEF295A"
+    },
+    {
+      "class": "group",
+      "id": "02EFB3DF-D892-43DD-BE77-DCD11573E91C"
+    },
+    {
+      "class": "text",
+      "id": "51106104-04AA-42F1-B335-B4750944B09D"
+    },
+    {
+      "class": "text",
+      "id": "737A5AAB-F884-440F-B37D-686625C9D297"
+    }
+  ],
+  "name": "Group 2 + Group 4 + Group 86 + 共建共享 全民健康 + 传统美德代代传 健康中国人人铸 Mask",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9FCA7052-6756-4600-B2D1-5E645065B28E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 130,
+    "width": 356,
+    "x": 10,
+    "y": 269
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Card/Music/Song/Normal Copy",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "F9F86DFF-689F-4008-B77D-3DF3DF91EE54_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/d96c87224665a13f296c17ef71608e219f89ed63.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "639D3B3B-2B2B-4BD8-9528-B3DF73890A78_stringValue",
+      "value": "戚学森"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "60557EDE-096E-4674-B229-DD4509E8985F_stringValue",
+      "value": "今年13岁的霖霖出生于四川省内江市为货车司机的父亲小何本身..."
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F88EEFBD-4CC6-4D6F-B8B8-E822EEFEF8EA_stringValue",
+      "value": "80,000元"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8DE690F5-4B0E-4E74-ABDC-6F90BAC19C9D",
+      "overrideName": "635405D7-4CFD-4BAC-9FCF-092822059331_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/3df1bd10a11094d602b021391b3254d741589a09.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "985AAAE1-356D-44C6-942D-6F28D7DB814E",
+      "overrideName": "CE2D8771-25F7-41A6-A0B2-67FBC340034D_stringValue",
+      "value": "如果有来生，我们还要在一起"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FE130D04-9D84-4AE0-9517-2AE5B9F72E5E",
+      "overrideName": "ED3E2F71-B8A6-4227-8151-AEEA050A5AB4_stringValue",
+      "value": "方隽仪"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5953504F-81F1-443D-9CFC-63F95A240C47",
+      "overrideName": "BA911E97-FAE1-4AE7-A1EE-4A8CAC61A6DF_stringValue",
+      "value": "10万"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E3B8185B-497A-4DF7-91F1-503D56FFB87A",
+  "verticalSpacing": 0
+}
