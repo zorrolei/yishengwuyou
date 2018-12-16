@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2F84B100-5161-4BE8-A673-4E5BFC00E0B1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E9DD1965-E9BB-4DC0-B108-857A96923F71",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2DD3D0E5-6521-4F95-866C-8C8866CC5C35",
+    "height": 81.6,
+    "width": 141,
+    "x": 169.2,
+    "y": 284.4
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "81835D42-1E4C-45AD-A34F-C9829116173F"
+    },
+    {
+      "class": "group",
+      "id": "1594F587-FC40-4318-9CEF-78328A561023"
+    }
+  ],
+  "name": "Volume",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "86243103-ADF5-4361-A0DA-7187FE0A46B0",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 6,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "FDFC1231-0080-484C-A200-6A169C1C09A7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

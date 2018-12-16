@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "48D5C998-9387-48D2-A35D-BA40B9A355B5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5EC4B3BD-7AAE-45B1-8988-9AA82538BC06",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6F13D216-1F16-4A14-8A59-EB753582E4C2",
+    "height": 40,
+    "width": 330,
+    "x": 23,
+    "y": 470
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Cell/Option Copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "7F87CB32-F434-4D92-87B5-5B6632AC2016_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "52D59F9B-218F-4271-9D2A-B17AEFF9F5F1_stringValue",
+      "value": "扣款日期"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "04F6C737-31D0-4E04-AED7-BE09AF92C8B5_stringValue",
+      "value": "2018-12-14"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "47F79767-03DE-4D6C-AF66-F44EB5B00556",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C32EBA17-E680-4106-B6CA-DE6A3235C067",
+  "verticalSpacing": 0
+}

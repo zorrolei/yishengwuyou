@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B33D952F-466C-41E9-A2FE-C2318006E7FB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E05967F0-D48D-4CCC-B4A8-2C1C9398626F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A8C4ED26-58EA-4248-8F98-1ED61EA32753",
+    "height": 64,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B090455A-F750-477A-AFF4-C110490F5A7E"
+    },
+    {
+      "class": "rectangle",
+      "id": "95145DF3-B6AC-4A51-9960-91ACAF646386"
+    },
+    {
+      "class": "group",
+      "id": "73DAE06F-716E-49F9-BB66-73B33BFDDB63"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3CD1D91D-5962-4A4D-84B6-71979B9046CD"
+    },
+    {
+      "class": "text",
+      "id": "EB16C3B1-774A-440C-B1C6-D542D4B45FF2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B3E7A7FC-4BB3-4CC9-A066-E016B26D1B36"
+    },
+    {
+      "class": "shapePath",
+      "id": "BA94DDBE-2096-492E-99A4-F8DF3730EF9E"
+    }
+  ],
+  "name": "iOS White With Back",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9B1DBADC-B009-4311-9D60-30E3ADA2C3D5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

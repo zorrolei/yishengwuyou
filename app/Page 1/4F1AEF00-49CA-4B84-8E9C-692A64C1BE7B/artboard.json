@@ -53,7 +53,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "group",
@@ -107,7 +107,14 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 1
+      "highestQuality": 1,
+      "included": 1,
+      "linkedLayers": [
+        "48336E2A-4941-472E-80A9-43D4A5E2CA03",
+        "C6FB7233-2E7E-4099-B9E7-473D9D98CA7A",
+        "6FFBAE45-9496-423A-A2A7-BA2224A9E6A1",
+        "9C41647A-6DD4-41E4-80E6-13556C357F27"
+      ]
     }
   },
   "verticalRulerData": {

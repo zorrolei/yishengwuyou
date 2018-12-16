@@ -115,7 +115,13 @@
   },
   "userInfo": {
     "io.magicsketch.mirror": {
-      "highestQuality": 1
+      "highestQuality": -1,
+      "included": 1,
+      "linkedLayers": [
+        "20EC5F37-5D62-4E83-8F89-EA59FF087F6F",
+        "F6B39E0B-99B1-4568-8846-100646148C8B",
+        "2B1B969A-20F9-4EAF-94EA-09CDFC004B90"
+      ]
     }
   },
   "verticalRulerData": {

@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D0D129F4-7A0F-49F3-BA69-BFFEF820BC24",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2893D03F-3C87-4C33-AB8D-A2EFC97A0D12",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9255D670-0A49-4AC4-9F84-F66E6B7CCF73",
+    "height": 10.80553420445811,
+    "width": 7.190476190476176,
+    "x": 172.0595370517507,
+    "y": 28.24424969395685
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "9BCAB127-1585-490B-BBDA-FBF69E3694B9"
+    },
+    {
+      "class": "shapePath",
+      "id": "B5242AAC-D642-4BBF-85AD-790389010E4D"
+    }
+  ],
+  "name": "Camera  ",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "44261662-377A-44F0-B264-7A8D513EF7A1",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4.5,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "EBD553A1-FCFA-42A6-A616-7EEBE8DBE2E3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C2ABB1D4-447A-437B-8686-BF78EA69D108",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FBCE960D-3060-49C2-AEE7-3F201CBBD7FE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A06DDEB6-FEA3-4B9F-9503-15C7F68AE440",
+    "height": 636,
+    "width": 1248,
+    "x": 287,
+    "y": 132
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "3D334F73-3C62-4BA7-9897-D8811892CA15"
+    },
+    {
+      "class": "group",
+      "id": "52E04D10-850D-4EA6-B447-21E80B1EE273"
+    },
+    {
+      "class": "group",
+      "id": "6D774CC7-F8F3-497F-AC35-AB199EE1B2C3"
+    },
+    {
+      "class": "group",
+      "id": "1BEE085F-7EE8-48E2-830D-B4627B906A38"
+    },
+    {
+      "class": "group",
+      "id": "2F84B100-5161-4BE8-A673-4E5BFC00E0B1"
+    },
+    {
+      "class": "group",
+      "id": "85AFBE3B-C38A-4A63-83CF-B84A799140F2"
+    },
+    {
+      "class": "group",
+      "id": "1F652869-9493-4646-B128-E078A5F85C79"
+    },
+    {
+      "class": "group",
+      "id": "66D566AE-E141-4560-8A10-970D840764CE"
+    },
+    {
+      "class": "group",
+      "id": "DE024148-AA61-4E92-8F63-4877195C4B90"
+    }
+  ],
+  "name": "iPhone X 05/Left/Flat",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "5966E297-4A4A-458F-B420-FA343B22B3DB",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 6,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "34227DBD-4568-480F-B430-061F43B9EEDB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

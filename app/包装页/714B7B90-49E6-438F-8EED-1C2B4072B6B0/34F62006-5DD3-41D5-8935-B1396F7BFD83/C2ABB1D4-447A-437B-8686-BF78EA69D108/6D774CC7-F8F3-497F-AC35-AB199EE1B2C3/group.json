@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6D774CC7-F8F3-497F-AC35-AB199EE1B2C3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "086F2BBC-CDFE-4574-9F10-DFC8AF2FF958",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4CB361FB-854D-4346-A8C8-09C25B3EC6E1",
+    "height": 36.6,
+    "width": 106.8,
+    "x": 1003.870684568757,
+    "y": 522.1940570325462
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D2AAADB4-CFE8-4F15-8A8A-CD3378A01514"
+    },
+    {
+      "class": "group",
+      "id": "A1A88875-67C2-43FB-B1FD-370C0473E621"
+    }
+  ],
+  "name": "Screws  ",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 10,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "A4EDF0E9-CCB0-4A5B-A054-4108466AFCEA",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "D0F4763D-CFD2-4CC3-A24A-950CFCD112B0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
