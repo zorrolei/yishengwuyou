@@ -1,0 +1,95 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "685CB1CB-B83F-463D-8A60-64311626A942",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "607EDDCF-D345-4C7D-9E62-5943471B866A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B092D1EE-459D-4174-877D-EFE63BA89B2C",
+    "height": 802,
+    "width": 936,
+    "x": 136,
+    "y": 95
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "18C0CE7E-F4DD-4C23-A902-9526783E675F"
+    },
+    {
+      "class": "group",
+      "id": "0B52EBBC-A31B-4E9F-8BBF-776F960AD218"
+    },
+    {
+      "class": "group",
+      "id": "9264D7FE-90EF-4061-AFA8-3CCD6744B3D7"
+    },
+    {
+      "class": "group",
+      "id": "FE16D2B2-CC63-4961-BDF0-B415340EC79D"
+    },
+    {
+      "class": "group",
+      "id": "78E02CF9-D196-4F99-9E9F-A0146CC1747D"
+    },
+    {
+      "class": "group",
+      "id": "DCAC5347-7BF1-4A27-B465-77BBD8B242DB"
+    },
+    {
+      "class": "group",
+      "id": "DD3261C0-0123-462D-84EF-597C769762A1"
+    },
+    {
+      "class": "group",
+      "id": "FD92CC25-6AEF-422B-B7D0-F5F457B90C78"
+    },
+    {
+      "class": "group",
+      "id": "161031DA-E071-460B-920C-2951E271F38D"
+    }
+  ],
+  "name": "iPhone X 05/Right/Flat",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "0CBA149C-AEB5-4E5D-9F09-775D4ECFF5DA",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4.5,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "8379AC92-A380-4733-824B-11AED368409C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

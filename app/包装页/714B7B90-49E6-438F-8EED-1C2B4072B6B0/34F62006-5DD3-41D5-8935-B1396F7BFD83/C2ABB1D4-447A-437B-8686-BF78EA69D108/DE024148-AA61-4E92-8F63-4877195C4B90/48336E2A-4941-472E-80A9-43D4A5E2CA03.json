@@ -154,7 +154,7 @@
         },
         "image": {
           "_class": "MSJSONFileReference",
-          "_ref": "images/ba30107a92ea99fb30acc532b344d5bf9b7e9d6e.png",
+          "_ref": "images/510ef15191138bdf51613c018f4089c014ddf1b5.png",
           "_ref_class": "MSImageData"
         },
         "isEnabled": true,
@@ -177,7 +177,7 @@
       "rotation": 3
     },
     "io.magicsketch.mirror": {
-      "artboardID": "4F1AEF00-49CA-4B84-8E9C-692A64C1BE7B",
+      "artboardID": "078B2200-19A9-4DB5-9777-74DA220CA5D6",
       "imageQuality": 3,
       "rotation": 1
     }

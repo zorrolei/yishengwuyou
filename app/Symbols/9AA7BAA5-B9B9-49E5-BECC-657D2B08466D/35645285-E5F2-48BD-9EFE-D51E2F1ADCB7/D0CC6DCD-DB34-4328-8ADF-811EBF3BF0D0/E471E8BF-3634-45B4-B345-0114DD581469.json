@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "公示活动"
+    "string": "互助公示"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "公示活动",
+  "name": "互助公示",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
